@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Playfair+Display:wght@400;500;600&display=swap');
+::-webkit-scrollbar{height:6px;width:6px}::-webkit-scrollbar-thumb{background:#C5A880;border-radius:6px}
+.fade{animation:f .6s ease both}@keyframes f{from{opacity:0}to{opacity:1}}
+@media(prefers-reduced-motion:reduce){.fade{animation:none}}
