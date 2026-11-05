@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "map-pin",
+    "title": "Lokasi strategis",
+    "desc": "Berada di jantung kawasan bisnis SCBD dengan akses mudah dari berbagai penjuru kota."
+  },
+  {
+    "id": 2,
+    "icon": "shopping-bag",
+    "title": "Belanja kelas atas",
+    "desc": "Rumah bagi butik dan merek pilihan dengan pelayanan personal."
+  },
+  {
+    "id": 3,
+    "icon": "hotel",
+    "title": "Terhubung hotel dan hunian",
+    "desc": "Menyatu dengan hotel bintang lima, apartemen mewah, dan menara perkantoran."
+  },
+  {
+    "id": 4,
+    "icon": "music",
+    "title": "Aula multifungsi",
+    "desc": "Ruang untuk opera, konser, pertunjukan, dan acara sosial."
+  }
+]

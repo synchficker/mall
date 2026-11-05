@@ -1,7 +1,7 @@
 # Pacific Place - situs statis
 
 ## Struktur
-Semua file berada di root repo: `index.html`, `shop.html`, `dine.html`, `whatson.html`, `offers.html`, `directory.html`, `privilege.html`, `admin.html`, `404.html`, folder `css/`, `js/`, `data/` (dan `img/` yang dibuat otomatis oleh CMS).
+Semua file berada di root repo: `index.html`, `shop.html`, `dine.html`, `whatson.html`, `offers.html`, `directory.html`, `privilege.html`, `admin.html`, `404.html`, folder `css/`, `js/`, `data/` (berisi juga `about*.json`) (dan `img/` yang dibuat otomatis oleh CMS).
 
 ## Deploy ke GitHub Pages
 1. Upload semua isi folder situs ke root repo (bukan folder pembungkusnya).
