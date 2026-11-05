@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "label": "SHOP",
+    "url": "shop.html",
+    "icon": "shopping-bag"
+  },
+  {
+    "id": 2,
+    "label": "DINE",
+    "url": "dine.html",
+    "icon": "utensils-crossed"
+  },
+  {
+    "id": 3,
+    "label": "WHAT'S ON",
+    "url": "whatson.html",
+    "icon": "calendar-days"
+  },
+  {
+    "id": 4,
+    "label": "OFFERS",
+    "url": "offers.html",
+    "icon": "badge-percent"
+  },
+  {
+    "id": 5,
+    "label": "DIRECTORY",
+    "url": "directory.html",
+    "icon": "map-pinned"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "label": "Instagram",
+    "url": "https://www.instagram.com/pacificplacejakarta/",
+    "icon": "camera"
+  },
+  {
+    "id": 2,
+    "label": "Facebook",
+    "url": "https://www.facebook.com/PacificPlaceJakarta/",
+    "icon": "share-2"
+  },
+  {
+    "id": 3,
+    "label": "YouTube",
+    "url": "https://youtube.com/c/PacificPlaceMallJakarta",
+    "icon": "video"
+  }
+]

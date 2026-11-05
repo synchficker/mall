@@ -5,5 +5,12 @@
   "directory_title": "Directory",
   "privilege_title": "Privilege",
   "privilege_text": "Kumpulkan poin dan nikmati penawaran khusus member.",
-  "privilege_button": "Gabung Sekarang"
+  "privilege_button": "Gabung Sekarang",
+  "show_featured": "ya",
+  "show_whatson": "ya",
+  "show_offers": "ya",
+  "show_directory": "ya",
+  "show_privilege": "ya",
+  "whatson_count": "15",
+  "offers_count": "4"
 }
