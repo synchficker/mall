@@ -1,5 +1,5 @@
 const $=(s,r=document)=>r.querySelector(s),$$=(s,r=document)=>[...r.querySelectorAll(s)];
-const J=f=>fetch('./data/'+f+'.json').then(r=>{if(!r.ok)throw 0;return r.json()}).catch(()=>window.__DATA?window.__DATA[f]:Promise.reject(new Error('Data '+f+' tidak termuat')));
+const J=f=>fetch('./data/'+f+'.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw 0;return r.json()}).catch(()=>window.__DATA?window.__DATA[f]:Promise.reject(new Error('Data '+f+' tidak termuat')));
 const ic=(n,c='w-4 h-4')=>`<i data-lucide="${n}" class="${c}"></i>`;
 const icons=()=>lucide.createIcons({attrs:{'stroke-width':1.5}});
 const NAV=[['shop','SHOP','shopping-bag'],['dine','DINE','utensils-crossed'],['whatson',"WHAT'S ON",'calendar-days'],['offers','OFFERS','badge-percent'],['directory','DIRECTORY','map-pinned']];

@@ -6,7 +6,7 @@ const get=await fetch(`${url}?ref=${branch}`,{headers:H});let sha;
 if(get.ok)({sha}=await get.json());else if(get.status!==404)throw new Error('Gagal membaca file: '+get.status);
 const content=btoa(unescape(encodeURIComponent(JSON.stringify(data,null,2))));
 const put=await fetch(url,{method:'PUT',headers:{...H,'Content-Type':'application/json'},body:JSON.stringify({message:`CMS update ${path}`,content,sha,branch})});
-if(!put.ok)throw new Error('Gagal menyimpan: '+put.status);return put.json()}
+if(!put.ok)throw new Error(put.status==401?'Token tidak valid atau kedaluwarsa':put.status==403||put.status==404?'Gagal menyimpan ('+put.status+'): token butuh izin Contents Read and write, atau nama user/repo/branch salah':put.status==409||put.status==422?'Konflik data ('+put.status+'). Muat ulang halaman admin lalu coba lagi':'Gagal menyimpan: '+put.status);return put.json()}
 async function uploadImage(file){
 if(file.size>1.5*1024*1024)throw new Error('Ukuran gambar maksimal 1,5 MB');
 const{user,repo,branch,token}=getFromLocalStorage();
@@ -14,3 +14,4 @@ const b64=await new Promise((ok,no)=>{const r=new FileReader();r.onload=()=>ok(r
 const path='img/'+Date.now()+'-'+file.name.toLowerCase().replace(/[^a-z0-9.]+/g,'-');
 const res=await fetch(`https://api.github.com/repos/${user}/${repo}/contents/${path}`,{method:'PUT',headers:{Authorization:`Bearer ${token}`,'Content-Type':'application/json'},body:JSON.stringify({message:'CMS upload '+path,content:b64,branch})});
 if(!res.ok)throw new Error('Gagal mengunggah: '+res.status);return path}
+async function loadFromGithub(path){const{user,repo,branch,token}=getFromLocalStorage();if(!token)return null;try{const r=await fetch(`https://api.github.com/repos/${user}/${repo}/contents/${path}?ref=${branch}&t=${Date.now()}`,{headers:{Authorization:`Bearer ${token}`,Accept:'application/vnd.github.raw+json'},cache:'no-store'});return r.ok?await r.json():null}catch{return null}}
