@@ -498,5 +498,15 @@
     "image": "https://picsum.photos/seed/pp50/600/420",
     "desc": "Skyline Lounge menghadirkan pengalaman bersantap bar & lounge dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00"
+  },
+  {
+    "name": "Chatime",
+    "type": "dine",
+    "category": "Food & Beverage",
+    "floor": "G",
+    "image": "",
+    "desc": "Semua menu Chatime dibuat dengan menggunakan bahan-bahan pilihan terbaik untuk menghasilkan minuman yang menyegarkan dan menenangkan.",
+    "hours": "10.00 - 22.00",
+    "id": 51
   }
 ]
