@@ -1,0 +1,1 @@
+window.CMS_CONFIG={PIN:'1234567890'};

@@ -1,4 +1,4 @@
-const PIN='1234567890',$=(s)=>document.querySelector(s),root=$('#root');
+const PIN=(window.CMS_CONFIG||{}).PIN||'1234567890',$=(s)=>document.querySelector(s),root=$('#root');
 const ic=(n,c='w-4 h-4')=>`<i data-lucide="${n}" class="${c}"></i>`,icons=()=>lucide.createIcons({attrs:{'stroke-width':1.5}});
 const SCH={tenants:['name','type','category','floor','image','desc','hours'],events:['title','date','image','desc'],offers:['title','tenant','valid','image','desc'],mall:['name','address','hours','phone']};
 const TABS=[['tenants','Tenants','store'],['events','Events','calendar-plus'],['offers','Offers','ticket-percent'],['mall','Settings','settings-2']];
