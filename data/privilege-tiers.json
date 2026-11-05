@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Silver",
+    "requirement": "Belanja Rp 5 juta per tahun",
+    "points": "1 poin per Rp 10.000",
+    "perk": "Valet 2 jam"
+  },
+  {
+    "id": 2,
+    "name": "Gold",
+    "requirement": "Belanja Rp 25 juta per tahun",
+    "points": "1,5 poin per Rp 10.000",
+    "perk": "Valet 4 jam dan akses lounge"
+  },
+  {
+    "id": 3,
+    "name": "Platinum",
+    "requirement": "Belanja Rp 100 juta per tahun",
+    "points": "2 poin per Rp 10.000",
+    "perk": "Valet tanpa batas dan concierge pribadi"
+  }
+]

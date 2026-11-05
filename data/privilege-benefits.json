@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "gift",
+    "title": "Hadiah ulang tahun",
+    "desc": "Voucher khusus di bulan ulang tahun Anda."
+  },
+  {
+    "id": 2,
+    "icon": "car",
+    "title": "Layanan valet",
+    "desc": "Parkir valet gratis sesuai tingkat keanggotaan."
+  },
+  {
+    "id": 3,
+    "icon": "ticket-percent",
+    "title": "Penawaran eksklusif",
+    "desc": "Akses awal ke penawaran tenant pilihan."
+  },
+  {
+    "id": 4,
+    "icon": "calendar-days",
+    "title": "Undangan acara",
+    "desc": "Prioritas untuk acara dan pratinjau koleksi."
+  }
+]
