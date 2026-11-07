@@ -7,8 +7,16 @@ if(get.ok)({sha}=await get.json());else if(get.status!==404)throw new Error('Gag
 const content=btoa(unescape(encodeURIComponent(JSON.stringify(data,null,2))));
 const put=await fetch(url,{method:'PUT',headers:{...H,'Content-Type':'application/json'},body:JSON.stringify({message:`CMS update ${path}`,content,sha,branch})});
 if(!put.ok)throw new Error(put.status==401?'Token tidak valid atau kedaluwarsa':put.status==403||put.status==404?'Gagal menyimpan ('+put.status+'): token butuh izin Contents Read and write, atau nama user/repo/branch salah':put.status==409||put.status==422?'Konflik data ('+put.status+'). Muat ulang halaman admin lalu coba lagi':'Gagal menyimpan: '+put.status);return put.json()}
+async function compressImage(file,max=1600){
+if(!/^image\/(jpeg|png|webp)$/.test(file.type))return file;
+const bmp=await createImageBitmap(file),k=Math.min(1,max/Math.max(bmp.width,bmp.height)),c=document.createElement('canvas');
+c.width=Math.round(bmp.width*k);c.height=Math.round(bmp.height*k);c.getContext('2d').drawImage(bmp,0,0,c.width,c.height);
+const blob=await new Promise(r=>c.toBlob(r,'image/webp',0.82));
+return blob&&blob.type=='image/webp'&&blob.size<file.size?new File([blob],file.name.replace(/\.\w+$/,'')+'.webp',{type:'image/webp'}):file}
 async function uploadImage(file){
-if(file.size>1.5*1024*1024)throw new Error('Ukuran gambar maksimal 1,5 MB');
+if(file.size>15*1024*1024)throw new Error('Ukuran gambar asli maksimal 15 MB');
+file=await compressImage(file);
+if(file.size>1.5*1024*1024)throw new Error('Gambar masih di atas 1,5 MB setelah dikompres. Gunakan gambar yang lebih kecil.');
 const{user,repo,branch,token}=getFromLocalStorage();
 const b64=await new Promise((ok,no)=>{const r=new FileReader();r.onload=()=>ok(r.result.split(',')[1]);r.onerror=()=>no(new Error('Gagal membaca file'));r.readAsDataURL(file)});
 const path='img/'+Date.now()+'-'+file.name.toLowerCase().replace(/[^a-z0-9.]+/g,'-');
