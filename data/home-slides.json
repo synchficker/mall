@@ -4,34 +4,39 @@
     "title": "Jakarta Art Week",
     "date": "2026-11-05",
     "desc": "Jakarta Art Week digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
-    "image": "https://picsum.photos/seed/ev0/1600/900"
+    "image": "https://picsum.photos/seed/ev0/1600/900",
+    "desc_en": "Jakarta Art Week is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
   {
     "id": 2,
     "title": "Holiday Tree Lighting",
     "date": "2026-11-08",
     "desc": "Holiday Tree Lighting digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
-    "image": "https://picsum.photos/seed/ev1/1600/900"
+    "image": "https://picsum.photos/seed/ev1/1600/900",
+    "desc_en": "Holiday Tree Lighting is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
   {
     "id": 3,
     "title": "Haute Couture Preview",
     "date": "2026-11-11",
     "desc": "Haute Couture Preview digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
-    "image": "https://picsum.photos/seed/ev2/1600/900"
+    "image": "https://picsum.photos/seed/ev2/1600/900",
+    "desc_en": "Haute Couture Preview is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
   {
     "id": 4,
     "title": "Watch & Jewellery Fair",
     "date": "2026-11-14",
     "desc": "Watch & Jewellery Fair digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
-    "image": "https://picsum.photos/seed/ev3/1600/900"
+    "image": "https://picsum.photos/seed/ev3/1600/900",
+    "desc_en": "Watch & Jewellery Fair is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
   {
     "id": 5,
     "title": "Chef's Table Series",
     "date": "2026-11-17",
     "desc": "Chef's Table Series digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
-    "image": "https://picsum.photos/seed/ev4/1600/900"
+    "image": "https://picsum.photos/seed/ev4/1600/900",
+    "desc_en": "Chef's Table Series is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   }
 ]

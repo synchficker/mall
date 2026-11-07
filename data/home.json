@@ -12,5 +12,7 @@
   "show_directory": "ya",
   "show_privilege": "ya",
   "whatson_count": "15",
-  "offers_count": "4"
+  "offers_count": "4",
+  "privilege_text_en": "Earn points and enjoy exclusive member offers.",
+  "privilege_button_en": "Join Now"
 }

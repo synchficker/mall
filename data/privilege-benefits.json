@@ -3,24 +3,32 @@
     "id": 1,
     "icon": "gift",
     "title": "Hadiah ulang tahun",
-    "desc": "Voucher khusus di bulan ulang tahun Anda."
+    "desc": "Voucher khusus di bulan ulang tahun Anda.",
+    "title_en": "Birthday gift",
+    "desc_en": "A special voucher during your birthday month."
   },
   {
     "id": 2,
     "icon": "car",
     "title": "Layanan valet",
-    "desc": "Parkir valet gratis sesuai tingkat keanggotaan."
+    "desc": "Parkir valet gratis sesuai tingkat keanggotaan.",
+    "title_en": "Valet service",
+    "desc_en": "Complimentary valet parking depending on your tier."
   },
   {
     "id": 3,
     "icon": "ticket-percent",
     "title": "Penawaran eksklusif",
-    "desc": "Akses awal ke penawaran tenant pilihan."
+    "desc": "Akses awal ke penawaran tenant pilihan.",
+    "title_en": "Exclusive offers",
+    "desc_en": "Early access to selected tenant offers."
   },
   {
     "id": 4,
     "icon": "calendar-days",
     "title": "Undangan acara",
-    "desc": "Prioritas untuk acara dan pratinjau koleksi."
+    "desc": "Prioritas untuk acara dan pratinjau koleksi.",
+    "title_en": "Event invitations",
+    "desc_en": "Priority access to events and collection previews."
   }
 ]

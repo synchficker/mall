@@ -5,7 +5,9 @@
     "tenant": "Bang & Olufsen",
     "valid": "31 Des 2026",
     "image": "https://picsum.photos/seed/of0/600/420",
-    "desc": "Berlaku untuk member Privilege. S&K berlaku."
+    "desc": "Berlaku untuk member Privilege. S&K berlaku.",
+    "desc_en": "Valid for Privilege members. Terms and conditions apply.",
+    "valid_en": "31 Dec 2026"
   },
   {
     "id": 2,
@@ -13,7 +15,9 @@
     "tenant": "Bottega Veneta",
     "valid": "31 Des 2026",
     "image": "https://picsum.photos/seed/of1/600/420",
-    "desc": "Berlaku untuk member Privilege. S&K berlaku."
+    "desc": "Berlaku untuk member Privilege. S&K berlaku.",
+    "desc_en": "Valid for Privilege members. Terms and conditions apply.",
+    "valid_en": "31 Dec 2026"
   },
   {
     "id": 3,
@@ -21,7 +25,9 @@
     "tenant": "Chanel Beauty",
     "valid": "31 Des 2026",
     "image": "https://picsum.photos/seed/of2/600/420",
-    "desc": "Berlaku untuk member Privilege. S&K berlaku."
+    "desc": "Berlaku untuk member Privilege. S&K berlaku.",
+    "desc_en": "Valid for Privilege members. Terms and conditions apply.",
+    "valid_en": "31 Dec 2026"
   },
   {
     "id": 4,
@@ -29,7 +35,9 @@
     "tenant": "Rolex",
     "valid": "31 Des 2026",
     "image": "https://picsum.photos/seed/of3/600/420",
-    "desc": "Berlaku untuk member Privilege. S&K berlaku."
+    "desc": "Berlaku untuk member Privilege. S&K berlaku.",
+    "desc_en": "Valid for Privilege members. Terms and conditions apply.",
+    "valid_en": "31 Dec 2026"
   },
   {
     "id": 5,
@@ -37,7 +45,9 @@
     "tenant": "Noodle Atelier",
     "valid": "31 Des 2026",
     "image": "https://picsum.photos/seed/of4/600/420",
-    "desc": "Berlaku untuk member Privilege. S&K berlaku."
+    "desc": "Berlaku untuk member Privilege. S&K berlaku.",
+    "desc_en": "Valid for Privilege members. Terms and conditions apply.",
+    "valid_en": "31 Dec 2026"
   },
   {
     "id": 6,
@@ -45,7 +55,9 @@
     "tenant": "Skyline Lounge",
     "valid": "31 Des 2026",
     "image": "https://picsum.photos/seed/of5/600/420",
-    "desc": "Berlaku untuk member Privilege. S&K berlaku."
+    "desc": "Berlaku untuk member Privilege. S&K berlaku.",
+    "desc_en": "Valid for Privilege members. Terms and conditions apply.",
+    "valid_en": "31 Dec 2026"
   },
   {
     "id": 7,
@@ -53,7 +65,9 @@
     "tenant": "Chanel Beauty",
     "valid": "31 Des 2026",
     "image": "https://picsum.photos/seed/of6/600/420",
-    "desc": "Berlaku untuk member Privilege. S&K berlaku."
+    "desc": "Berlaku untuk member Privilege. S&K berlaku.",
+    "desc_en": "Valid for Privilege members. Terms and conditions apply.",
+    "valid_en": "31 Dec 2026"
   },
   {
     "id": 8,
@@ -61,7 +75,9 @@
     "tenant": "Saint Laurent",
     "valid": "31 Des 2026",
     "image": "https://picsum.photos/seed/of7/600/420",
-    "desc": "Berlaku untuk member Privilege. S&K berlaku."
+    "desc": "Berlaku untuk member Privilege. S&K berlaku.",
+    "desc_en": "Valid for Privilege members. Terms and conditions apply.",
+    "valid_en": "31 Dec 2026"
   },
   {
     "id": 9,
@@ -69,7 +85,9 @@
     "tenant": "Dim Sum Garden",
     "valid": "31 Des 2026",
     "image": "https://picsum.photos/seed/of8/600/420",
-    "desc": "Berlaku untuk member Privilege. S&K berlaku."
+    "desc": "Berlaku untuk member Privilege. S&K berlaku.",
+    "desc_en": "Valid for Privilege members. Terms and conditions apply.",
+    "valid_en": "31 Dec 2026"
   },
   {
     "id": 10,
@@ -77,6 +95,8 @@
     "tenant": "Bottega Veneta",
     "valid": "31 Des 2026",
     "image": "https://picsum.photos/seed/of9/600/420",
-    "desc": "Berlaku untuk member Privilege. S&K berlaku."
+    "desc": "Berlaku untuk member Privilege. S&K berlaku.",
+    "desc_en": "Valid for Privilege members. Terms and conditions apply.",
+    "valid_en": "31 Dec 2026"
   }
 ]

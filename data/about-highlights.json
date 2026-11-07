@@ -3,24 +3,32 @@
     "id": 1,
     "icon": "map-pin",
     "title": "Lokasi strategis",
-    "desc": "Berada di jantung kawasan bisnis SCBD dengan akses mudah dari berbagai penjuru kota."
+    "desc": "Berada di jantung kawasan bisnis SCBD dengan akses mudah dari berbagai penjuru kota.",
+    "title_en": "Strategic location",
+    "desc_en": "Located in the heart of the SCBD business district with easy access from across the city."
   },
   {
     "id": 2,
     "icon": "shopping-bag",
     "title": "Belanja kelas atas",
-    "desc": "Rumah bagi butik dan merek pilihan dengan pelayanan personal."
+    "desc": "Rumah bagi butik dan merek pilihan dengan pelayanan personal.",
+    "title_en": "Premium shopping",
+    "desc_en": "Home to selected boutiques and brands with personal service."
   },
   {
     "id": 3,
     "icon": "hotel",
     "title": "Terhubung hotel dan hunian",
-    "desc": "Menyatu dengan hotel bintang lima, apartemen mewah, dan menara perkantoran."
+    "desc": "Menyatu dengan hotel bintang lima, apartemen mewah, dan menara perkantoran.",
+    "title_en": "Connected to hotel and residences",
+    "desc_en": "Integrated with a five-star hotel, luxury apartments and office towers."
   },
   {
     "id": 4,
     "icon": "music",
     "title": "Aula multifungsi",
-    "desc": "Ruang untuk opera, konser, pertunjukan, dan acara sosial."
+    "desc": "Ruang untuk opera, konser, pertunjukan, dan acara sosial.",
+    "title_en": "Multi-purpose hall",
+    "desc_en": "Space for opera, concerts, performances and social events."
   }
 ]

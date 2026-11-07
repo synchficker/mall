@@ -1,38 +1,20 @@
 [
   {
-    "id": 2,
-    "label": "Facebook",
-    "url": "https://www.facebook.com/#",
-    "icon": "share-2"
-  },
-  {
-    "label": "X",
-    "url": "https://www.x.com/#",
-    "icon": "info",
-    "id": 4
-  },
-  {
     "id": 1,
     "label": "Instagram",
-    "url": "https://www.instagram.com/#",
+    "url": "https://www.instagram.com/pacificplacejakarta/",
     "icon": "camera"
+  },
+  {
+    "id": 2,
+    "label": "Facebook",
+    "url": "https://www.facebook.com/PacificPlaceJakarta/",
+    "icon": "share-2"
   },
   {
     "id": 3,
     "label": "YouTube",
-    "url": "https://youtube.com/#",
+    "url": "https://youtube.com/c/PacificPlaceMallJakarta",
     "icon": "video"
-  },
-  {
-    "label": "Tiktok",
-    "url": "https://www.tiktok.com/#",
-    "icon": "music",
-    "id": 5
-  },
-  {
-    "label": "Threads",
-    "url": "https://www.threads.com/#",
-    "icon": "message-circle",
-    "id": 6
   }
 ]

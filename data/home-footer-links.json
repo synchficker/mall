@@ -26,7 +26,23 @@
   },
   {
     "id": 6,
-    "label": "ABOUT US",
-    "url": "about.html"
+    "label": "TENTANG KAMI",
+    "url": "about.html",
+    "label_en": "ABOUT US"
+  },
+  {
+    "id": 7,
+    "label": "LEASING",
+    "url": "leasing.html"
+  },
+  {
+    "id": 8,
+    "label": "CAREERS",
+    "url": "careers.html"
+  },
+  {
+    "id": 9,
+    "label": "CONTACT",
+    "url": "contact.html"
   }
 ]

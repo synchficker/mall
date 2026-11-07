@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Store Operations Supervisor",
+    "department": "Operations",
+    "employment": "Full-time",
+    "location": "Jakarta",
+    "desc": "Mengawasi operasional harian area ritel dan memastikan standar layanan tenant.",
+    "title_en": "Store Operations Supervisor",
+    "desc_en": "Oversee daily retail operations and ensure tenant service standards."
+  },
+  {
+    "id": 2,
+    "title": "Marketing Executive",
+    "department": "Marketing",
+    "employment": "Full-time",
+    "location": "Jakarta",
+    "desc": "Menyusun dan menjalankan kampanye promosi serta acara mal.",
+    "title_en": "Marketing Executive",
+    "desc_en": "Plan and run promotional campaigns and mall events."
+  },
+  {
+    "id": 3,
+    "title": "Customer Service Officer",
+    "department": "Guest Services",
+    "employment": "Full-time",
+    "location": "Jakarta",
+    "desc": "Melayani pengunjung dan anggota Privilege di meja informasi.",
+    "title_en": "Customer Service Officer",
+    "desc_en": "Serve visitors and Privilege members at the information desk."
+  },
+  {
+    "id": 4,
+    "title": "Building Engineer",
+    "department": "Engineering",
+    "employment": "Full-time",
+    "location": "Jakarta",
+    "desc": "Menjaga sistem mekanikal dan elektrikal gedung agar berjalan andal.",
+    "title_en": "Building Engineer",
+    "desc_en": "Keep the building mechanical and electrical systems running reliably."
+  },
+  {
+    "id": 5,
+    "title": "Tenant Relations Officer",
+    "department": "Leasing",
+    "employment": "Full-time",
+    "location": "Jakarta",
+    "desc": "Menjadi penghubung antara manajemen mal dan para tenant.",
+    "title_en": "Tenant Relations Officer",
+    "desc_en": "Act as the link between mall management and tenants."
+  }
+]
