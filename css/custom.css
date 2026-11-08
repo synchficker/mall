@@ -3,3 +3,4 @@
 .fade{animation:f .6s ease both}@keyframes f{from{opacity:0}to{opacity:1}}
 @media(prefers-reduced-motion:reduce){.fade{animation:none}}
 :root{--brand:206 17 38;--deep:127 13 27;--blush:244 199 204}
+@keyframes pg{from{width:0}to{width:100%}}

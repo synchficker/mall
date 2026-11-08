@@ -1,0 +1,12 @@
+{
+  "autoplay": "ya",
+  "interval": "6",
+  "transition": "fade",
+  "height": "full",
+  "overlay": "45",
+  "loop": "ya",
+  "pause_hover": "ya",
+  "show_arrows": "ya",
+  "show_dots": "ya",
+  "show_counter": "ya"
+}
