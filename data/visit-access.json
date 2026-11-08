@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "mode": "Naik MRT",
+    "text": "Pacific Place dapat dijangkau dengan MRT. Jalur dan rute dengan pemberhentian terdekat:\nMRT Jakarta: M1, Stasiun Istora Mandiri",
+    "mode_en": "By MRT",
+    "text_en": "Pacific Place can be reached by MRT. Lines and routes with nearby stops:\nMRT Jakarta: M1, Istora Mandiri Station"
+  },
+  {
+    "id": 2,
+    "mode": "Naik Mobil",
+    "text": "Akses dari Jalan Jenderal Sudirman dan Jalan Tulodong Atas 2 (Senopati).\nLandmark terdekat: SCBD, Polda Metro Jaya, dan IDX (Bursa Efek Indonesia).",
+    "mode_en": "By Car",
+    "text_en": "Accessible from Jalan Jenderal Sudirman and Jalan Tulodong Atas 2 (Senopati).\nNearby landmarks: SCBD, Polda Metro Jaya and IDX (Indonesia Stock Exchange)."
+  },
+  {
+    "id": 3,
+    "mode": "Naik Motor",
+    "text": "Akses dari Jalan Jenderal Sudirman dan Jalan Tulodong Atas 2 (Senopati).\nLandmark terdekat: SCBD, Polda Metro Jaya, dan IDX (Bursa Efek Indonesia).",
+    "mode_en": "By Motorcycle",
+    "text_en": "Accessible from Jalan Jenderal Sudirman and Jalan Tulodong Atas 2 (Senopati).\nNearby landmarks: SCBD, Polda Metro Jaya and IDX (Indonesia Stock Exchange)."
+  },
+  {
+    "id": 4,
+    "mode": "Naik Bus",
+    "text": "Pacific Place dapat dijangkau dengan bus. Jalur dan rute dengan pemberhentian terdekat:\nTransjakarta: Koridor 1 dan 4, Halte S21 Polda Metro Jaya\nMetroTrans: 1N, 1P, GR1\nRoyalTrans: B13, B15, 1K\nBus kota: 19, 66, AC05, AC05A, AC34, AC121, AC137A",
+    "mode_en": "By Bus",
+    "text_en": "Pacific Place can be reached by bus. Lines and routes with nearby stops:\nTransjakarta: Corridors 1 and 4, S21 Polda Metro Jaya stop\nMetroTrans: 1N, 1P, GR1\nRoyalTrans: B13, B15, 1K\nCity buses: 19, 66, AC05, AC05A, AC34, AC121, AC137A"
+  },
+  {
+    "id": 5,
+    "mode": "Naik Taksi",
+    "text": "Akses dari Jalan Jenderal Sudirman dan Jalan Tulodong Atas 2 (Senopati).\nLandmark terdekat: SCBD, Polda Metro Jaya, dan IDX (Bursa Efek Indonesia).",
+    "mode_en": "By Taxi",
+    "text_en": "Accessible from Jalan Jenderal Sudirman and Jalan Tulodong Atas 2 (Senopati).\nNearby landmarks: SCBD, Polda Metro Jaya and IDX (Indonesia Stock Exchange)."
+  }
+]

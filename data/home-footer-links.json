@@ -44,5 +44,10 @@
     "id": 9,
     "label": "CONTACT",
     "url": "contact.html"
+  },
+  {
+    "id": 10,
+    "label": "PLAN YOUR VISIT",
+    "url": "visit.html"
   }
 ]

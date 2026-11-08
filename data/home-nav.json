@@ -1,11 +1,5 @@
 [
   {
-    "id": 3,
-    "label": "WHAT'S ON",
-    "url": "whatson.html",
-    "icon": "calendar-days"
-  },
-  {
     "id": 1,
     "label": "SHOP",
     "url": "shop.html",
@@ -18,6 +12,12 @@
     "icon": "utensils-crossed"
   },
   {
+    "id": 3,
+    "label": "WHAT'S ON",
+    "url": "whatson.html",
+    "icon": "calendar-days"
+  },
+  {
     "id": 4,
     "label": "OFFERS",
     "url": "offers.html",
@@ -28,5 +28,12 @@
     "label": "DIRECTORY",
     "url": "directory.html",
     "icon": "map-pinned"
+  },
+  {
+    "id": 6,
+    "label": "PLAN YOUR VISIT",
+    "url": "visit.html",
+    "icon": "compass",
+    "mega": "visit"
   }
 ]

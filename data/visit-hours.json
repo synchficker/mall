@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "category": "Semua Retail",
+    "sun": "10:00 AM - 10:00 PM",
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "category_en": "All Retailers"
+  },
+  {
+    "id": 2,
+    "category": "Restoran dan Food Court",
+    "sun": "10:00 AM - 10:00 PM",
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "category_en": "Restaurants & Food Courts"
+  },
+  {
+    "id": 3,
+    "category": "Gerai Jembatan Metro Link",
+    "sun": "10:00 AM - 10:00 PM",
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "category_en": "Metro Link Bridge Outlets"
+  },
+  {
+    "id": 4,
+    "category": "Bank",
+    "sun": "10:00 AM - 10:00 PM",
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "category_en": "Banks"
+  }
+]

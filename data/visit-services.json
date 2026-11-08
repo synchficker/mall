@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "group": "Layanan Untuk Anda",
+    "text": "Sarung payung plastik di GF",
+    "group_en": "At Your Service",
+    "text_en": "Plastic umbrella covers at GF"
+  },
+  {
+    "id": 2,
+    "group": "Layanan Untuk Anda",
+    "text": "Sistem barang hilang di meja concierge GF",
+    "group_en": "At Your Service",
+    "text_en": "Lost-and-found system at the GF concierge desk"
+  },
+  {
+    "id": 3,
+    "group": "Layanan Untuk Anda",
+    "text": "Pengisian kendaraan listrik (Lobi Selatan dan Lobi One Pacific Place)",
+    "group_en": "At Your Service",
+    "text_en": "EV charging (South Lobby and One Pacific Place Lobby)"
+  },
+  {
+    "id": 4,
+    "group": "Untuk Kenyamanan Anda",
+    "text": "Pacific Bay Area di Lantai 4 dan 5",
+    "group_en": "For Your Convenience",
+    "text_en": "Pacific Bay Area on Levels 4 and 5"
+  },
+  {
+    "id": 5,
+    "group": "Untuk Kenyamanan Anda",
+    "text": "Booth penukaran hadiah di Lantai 3",
+    "group_en": "For Your Convenience",
+    "text_en": "Redemption booth on Level 3"
+  },
+  {
+    "id": 6,
+    "group": "Untuk Kenyamanan Anda",
+    "text": "Musholla eksekutif di Lantai B1",
+    "group_en": "For Your Convenience",
+    "text_en": "Executive musholla on Level B1"
+  },
+  {
+    "id": 7,
+    "group": "Untuk Kenyamanan Anda",
+    "text": "Sewa powerbank di B1, LG, GF, 1, 2, 3, 4, 5, 6, dan lobi OPP",
+    "group_en": "For Your Convenience",
+    "text_en": "Powerbank rental on B1, LG, GF, 1, 2, 3, 4, 5, 6 and the OPP lobby"
+  },
+  {
+    "id": 8,
+    "group": "Untuk Kenyamanan Anda",
+    "text": "Toilet tersedia di semua lantai",
+    "group_en": "For Your Convenience",
+    "text_en": "Restrooms on all levels"
+  },
+  {
+    "id": 9,
+    "group": "Untuk Kenyamanan Anda",
+    "text": "Toilet bertema di Lantai 4 dan 5",
+    "group_en": "For Your Convenience",
+    "text_en": "Themed restrooms on Levels 4 and 5"
+  },
+  {
+    "id": 10,
+    "group": "Untuk Kenyamanan Anda",
+    "text": "Toilet disabilitas di P1, LG, GF, 1, 3, 4, dan 5",
+    "group_en": "For Your Convenience",
+    "text_en": "Accessible restrooms on P1, LG, GF, 1, 3, 4 and 5"
+  },
+  {
+    "id": 11,
+    "group": "Untuk Kenyamanan Anda",
+    "text": "Toilet VIP di Lantai 4 (khusus anggota Pacific Gold)",
+    "group_en": "For Your Convenience",
+    "text_en": "VIP restroom on Level 4 (exclusive to Pacific Gold members)"
+  },
+  {
+    "id": 12,
+    "group": "Ramah Keluarga",
+    "text": "Ruang menyusui di Lantai 3 dan 4",
+    "group_en": "Family Friendly",
+    "text_en": "Nursery rooms on Levels 3 and 4"
+  },
+  {
+    "id": 13,
+    "group": "Ramah Keluarga",
+    "text": "Peminjaman kursi roda dan kereta bayi",
+    "group_en": "Family Friendly",
+    "text_en": "Wheelchair and baby stroller loan"
+  },
+  {
+    "id": 14,
+    "group": "Akses dan Parkir",
+    "text": "Akses Ballroom RCPP di Lantai 4",
+    "group_en": "Getting Around",
+    "text_en": "Ballroom RCPP access on Level 4"
+  },
+  {
+    "id": 15,
+    "group": "Akses dan Parkir",
+    "text": "Akses ke IDX (BEI) di Lantai B1",
+    "group_en": "Getting Around",
+    "text_en": "Access to IDX on Level B1"
+  },
+  {
+    "id": 16,
+    "group": "Akses dan Parkir",
+    "text": "Jalur landai untuk disabilitas di Lobi Barat dan Timur",
+    "group_en": "Getting Around",
+    "text_en": "Ramp access for wheelchair users at the West and East Lobbies"
+  },
+  {
+    "id": 17,
+    "group": "Akses dan Parkir",
+    "text": "Ruang pengemudi di P2 dan P3",
+    "group_en": "Getting Around",
+    "text_en": "Drivers' room on P2 and P3"
+  },
+  {
+    "id": 18,
+    "group": "Akses dan Parkir",
+    "text": "Parkir khusus anggota Gold di P1",
+    "group_en": "Getting Around",
+    "text_en": "Gold member parking on P1"
+  },
+  {
+    "id": 19,
+    "group": "Akses dan Parkir",
+    "text": "Parkir kendaraan listrik di P1",
+    "group_en": "Getting Around",
+    "text_en": "EV parking on P1"
+  },
+  {
+    "id": 20,
+    "group": "Akses dan Parkir",
+    "text": "Valet mandiri di P1 dan P2",
+    "group_en": "Getting Around",
+    "text_en": "Self-service valet on P1 and P2"
+  },
+  {
+    "id": 21,
+    "group": "Akses dan Parkir",
+    "text": "Parkir khusus wanita di P2",
+    "group_en": "Getting Around",
+    "text_en": "Ladies' parking on P2"
+  },
+  {
+    "id": 22,
+    "group": "Akses dan Parkir",
+    "text": "Stasiun pengisian sepeda listrik di Lobi Selatan",
+    "group_en": "Getting Around",
+    "text_en": "Electric bicycle charging station at the South Lobby"
+  },
+  {
+    "id": 23,
+    "group": "Akses dan Parkir",
+    "text": "Parkir sepeda dan motor besar (GF) di Lobi Selatan",
+    "group_en": "Getting Around",
+    "text_en": "Bicycle and large motorcycle parking (GF) at the South Lobby"
+  },
+  {
+    "id": 24,
+    "group": "Akses dan Parkir",
+    "text": "Parkir motor eksklusif (Basement P3)",
+    "group_en": "Getting Around",
+    "text_en": "Exclusive motorcycle parking (Basement P3)"
+  },
+  {
+    "id": 25,
+    "group": "Akses dan Parkir",
+    "text": "Function Room di P1",
+    "group_en": "Getting Around",
+    "text_en": "Function room on P1"
+  }
+]
