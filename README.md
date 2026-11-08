@@ -24,3 +24,6 @@ Setiap halaman publik baru harus punya breadcrumb. Breadcrumb dibuat otomatis ol
 2. Daftarkan label dua bahasa di objek `CRUMB` pada `js/app.js`, misalnya `nama:['Label ID','Label EN']`. Jika lupa, breadcrumb tetap muncul memakai judul `<title>`, tetapi label tidak ikut diterjemahkan.
 3. Jika halaman punya tab atau filter di alamat (misalnya `?tab=` atau `?f=`), isi variabel `CX` agar muncul sebagai tingkat ketiga.
 Pengecualian: beranda (`index.html`), `admin.html`, dan `404.html`.
+
+## Warna brand
+Palet default Merah-Putih (merah bendera `#CE1126`, merah tua `#7F0D1B`, merah muda `#F4C7CC`). Warna diatur dari Panel Admin > Halaman Muka > Tema, atau ubah variabel `--brand`, `--deep`, `--blush` di `css/custom.css`. Di kode, class `gold` berarti warna utama (merah), `deep` permukaan gelap (footer dan banner), `blush` aksen terang di atas permukaan gelap.
