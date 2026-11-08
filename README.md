@@ -17,3 +17,10 @@ Buka `admin.html` (ikon gembok kecil di footer). PIN diatur di `js/config.js`. L
 ## Catatan
 - PIN hanya penghalang tampilan; keamanan sebenarnya ada pada token. Jangan gunakan token berizin luas.
 - Perubahan CMS memperbarui file JSON, bukan `data/data.js` (cadangan untuk mode lokal).
+
+## Aturan halaman baru (wajib)
+Setiap halaman publik baru harus punya breadcrumb. Breadcrumb dibuat otomatis oleh `js/app.js` (fungsi `crumbs()`), sehingga langkahnya:
+1. Buat file HTML dari salah satu halaman yang ada, ubah `data-p="..."` dan `<title>` (format `Nama Halaman | Pacific Place`).
+2. Daftarkan label dua bahasa di objek `CRUMB` pada `js/app.js`, misalnya `nama:['Label ID','Label EN']`. Jika lupa, breadcrumb tetap muncul memakai judul `<title>`, tetapi label tidak ikut diterjemahkan.
+3. Jika halaman punya tab atau filter di alamat (misalnya `?tab=` atau `?f=`), isi variabel `CX` agar muncul sebagai tingkat ketiga.
+Pengecualian: beranda (`index.html`), `admin.html`, dan `404.html`.
