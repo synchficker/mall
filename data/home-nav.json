@@ -3,40 +3,30 @@
     "id": 1,
     "label": "SHOP",
     "url": "shop.html",
-    "icon": "shopping-bag",
-    "mega": "shop",
-    "label_en": ""
+    "icon": "shopping-bag"
   },
   {
     "id": 2,
     "label": "DINE",
     "url": "dine.html",
-    "icon": "utensils-crossed",
-    "mega": "dine",
-    "label_en": ""
+    "icon": "utensils-crossed"
   },
   {
     "id": 3,
     "label": "WHAT'S ON",
     "url": "whatson.html",
-    "icon": "calendar-days",
-    "mega": "events",
-    "label_en": ""
+    "icon": "calendar-days"
   },
   {
     "id": 4,
     "label": "OFFERS",
     "url": "offers.html",
-    "icon": "badge-percent",
-    "mega": "offers",
-    "label_en": ""
+    "icon": "badge-percent"
   },
   {
     "id": 5,
     "label": "DIRECTORY",
     "url": "directory.html",
-    "icon": "map-pinned",
-    "mega": "floors",
-    "label_en": ""
+    "icon": "map-pinned"
   }
 ]
