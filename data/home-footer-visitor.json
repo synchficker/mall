@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "label": "Layanan",
+    "label_en": "Services",
+    "url": "visit.html?tab=services"
+  },
+  {
+    "id": 2,
+    "label": "Barang Hilang",
+    "label_en": "Lost and Found",
+    "url": "lost-and-found.html"
+  }
+]

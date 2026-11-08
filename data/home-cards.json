@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "image": "img/card-silver.svg",
+    "alt": "Privilege Silver"
+  },
+  {
+    "id": 2,
+    "image": "img/card-gold.svg",
+    "alt": "Privilege Gold"
+  },
+  {
+    "id": 3,
+    "image": "img/card-platinum.svg",
+    "alt": "Privilege Platinum"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "label": "Home",
+    "url": "index.html"
+  },
+  {
+    "id": 2,
+    "label": "Tentang",
+    "label_en": "About",
+    "url": "about.html"
+  }
+]
