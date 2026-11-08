@@ -1,5 +1,11 @@
 [
   {
+    "id": 3,
+    "label": "WHAT'S ON",
+    "url": "whatson.html",
+    "icon": "calendar-days"
+  },
+  {
     "id": 1,
     "label": "SHOP",
     "url": "shop.html",
@@ -10,12 +16,6 @@
     "label": "DINE",
     "url": "dine.html",
     "icon": "utensils-crossed"
-  },
-  {
-    "id": 3,
-    "label": "WHAT'S ON",
-    "url": "whatson.html",
-    "icon": "calendar-days"
   },
   {
     "id": 4,
