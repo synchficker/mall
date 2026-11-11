@@ -4,7 +4,7 @@
     "label": "SHOP",
     "url": "shop.html",
     "icon": "shopping-bag",
-    "mega": "auto",
+    "mega": "shop",
     "mega_trigger": "hover",
     "mega_style": "light",
     "mega_width": "full",
