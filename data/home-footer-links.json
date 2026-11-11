@@ -1,30 +1,5 @@
 [
   {
-    "id": 1,
-    "label": "SHOP",
-    "url": "shop.html"
-  },
-  {
-    "id": 2,
-    "label": "DINE",
-    "url": "dine.html"
-  },
-  {
-    "id": 3,
-    "label": "WHAT'S ON",
-    "url": "whatson.html"
-  },
-  {
-    "id": 4,
-    "label": "OFFERS",
-    "url": "offers.html"
-  },
-  {
-    "id": 5,
-    "label": "DIRECTORY",
-    "url": "directory.html"
-  },
-  {
     "id": 6,
     "label": "TENTANG KAMI",
     "url": "about.html",
@@ -39,15 +14,5 @@
     "id": 8,
     "label": "CAREERS",
     "url": "careers.html"
-  },
-  {
-    "id": 9,
-    "label": "CONTACT",
-    "url": "contact.html"
-  },
-  {
-    "id": 10,
-    "label": "PLAN YOUR VISIT",
-    "url": "visit.html"
   }
 ]
