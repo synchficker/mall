@@ -21,7 +21,7 @@
   "copyright": "© 2026 Pacific Place Jakarta",
   "footer_bg": "deep",
   "footer_padding": "normal",
-  "footer_width": "normal",
+  "footer_width": "wide",
   "show_back_top": "tidak",
   "show_bottom": "ya",
   "show_location": "ya",
@@ -40,10 +40,15 @@
   "app_desc_en": "Enjoy your digital card and exclusive member offers in our app.",
   "show_appstore": "ya",
   "show_playstore": "ya",
-  "card_height": "20",
+  "card_height": "16",
   "app_layout": "baris",
   "contact_address": "",
   "phone": "",
   "contact_note": "",
-  "bottom_note": ""
+  "bottom_note": "",
+  "loc_link_label_en": "",
+  "loc_link2_label_en": "",
+  "contact_address_en": "",
+  "contact_note_en": "",
+  "bottom_note_en": ""
 }
