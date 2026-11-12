@@ -1,18 +1,19 @@
 [
   {
-    "id": 6,
-    "label": "TENTANG KAMI",
-    "url": "about.html",
-    "label_en": "ABOUT US"
+    "id": 1,
+    "label": "Tentang Pacific Place",
+    "label_en": "About Pacific Place",
+    "url": "about.html"
   },
   {
-    "id": 7,
-    "label": "LEASING",
+    "id": 2,
+    "label": "Leasing",
     "url": "leasing.html"
   },
   {
-    "id": 8,
-    "label": "CAREERS",
+    "id": 3,
+    "label": "Karier",
+    "label_en": "Careers",
     "url": "careers.html"
   }
 ]
