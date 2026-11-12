@@ -1,3 +1,4 @@
+addEventListener('error',e=>{const t=e.target;if(t&&t.tagName=='IMG'&&!t.dataset.fb){t.dataset.fb=1;t.removeAttribute('srcset');t.src='img/placeholder.svg'}},true);
 const LS={get:k=>{try{return localStorage.getItem(k)}catch(e){return null}},set:(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}}};
 const LANG=LS.get('lang')==='en'?'en':'id';document.documentElement.lang=LANG;
 const DICT={'Cari tenant...':'Search tenants...','Cari...':'Search...','Cari':'Search','Kategori':'Category','Lantai':'Floor','Tidak ada hasil. Ubah filter Anda.':'No results. Adjust your filters.','Tidak ada hasil.':'No results.','Tutup':'Close','Salin tautan':'Copy link','Tautan tersalin':'Link copied','Tersedia':'Available','Semua':'All','Belum ada tenant di lantai ini.':'No tenants on this floor yet.','Tentang Kami':'About Us','TENTANG KAMI':'ABOUT US','Gabung Sekarang':'Join Now','Kumpulkan poin dan nikmati penawaran khusus member.':'Earn points and enjoy exclusive member offers.','Jam Buka':'Opening Hours','Kontak':'Contact','Jelajahi':'Explore','Tingkat keanggotaan':'Membership tiers','Keuntungan anggota':'Member benefits','Kebijakan Manajemen':'Management Policy','Tentang PT Pacific Place Jakarta':'About PT Pacific Place Jakarta'};
@@ -14,7 +15,7 @@ const $=(s,r=document)=>r.querySelector(s),$$=(s,r=document)=>[...r.querySelecto
 const J0=f=>fetch('./data/'+f+'.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw 0;return r.json()}).catch(()=>window.__DATA?window.__DATA[f]:Promise.reject(new Error('Data '+f+' tidak termuat')));
 const J=f=>J0(f).then(enData);
 const ic=(n,c='w-4 h-4')=>`<i data-lucide="${n}" class="${c}"></i>`;
-const icons=()=>lucide.createIcons({attrs:{'stroke-width':1.5}});
+const icons=()=>{if(window.lucide)lucide.createIcons({attrs:{'stroke-width':1.5}})};
 const NAV=[['shop','SHOP','shopping-bag'],['dine','DINE','utensils-crossed'],['whatson',"WHAT'S ON",'calendar-days'],['offers','OFFERS','badge-percent'],['directory','DIRECTORY','map-pinned'],['visit','PLAN YOUR VISIT','compass']];
 const FL=['LG','G','1','2','3','4','5'],P=document.body.dataset.p,app=$('#app');
 const h2=t=>`<h2 class="font-serif text-3xl mb-8">${t}</h2>`;
