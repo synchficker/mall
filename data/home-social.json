@@ -2,25 +2,25 @@
   {
     "id": 1,
     "label": "Facebook",
-    "url": "https://www.facebook.com/PacificPlaceJakarta/",
+    "url": "https://www.facebook.com/#",
     "icon": "facebook"
   },
   {
     "id": 2,
     "label": "X",
-    "url": "https://twitter.com/pacificplace",
+    "url": "https://twitter.com/#",
     "icon": "x-twitter"
   },
   {
     "id": 4,
     "label": "Instagram",
-    "url": "https://www.instagram.com/pacificplacejakarta/",
+    "url": "https://www.instagram.com/#",
     "icon": "instagram"
   },
   {
     "id": 6,
     "label": "Threads",
-    "url": "https://www.threads.net/",
+    "url": "https://www.threads.net/#",
     "icon": "threads"
   }
 ]
