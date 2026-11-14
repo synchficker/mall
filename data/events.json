@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Jakarta Art Week",
     "date": "2026-11-05",
-    "image": "https://picsum.photos/seed/ev0/1600/900",
+    "image": "img/events/e-1.svg",
     "desc": "Jakarta Art Week digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Jakarta Art Week is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Holiday Tree Lighting",
     "date": "2026-11-08",
-    "image": "https://picsum.photos/seed/ev1/1600/900",
+    "image": "img/events/e-2.svg",
     "desc": "Holiday Tree Lighting digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Holiday Tree Lighting is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "title": "Haute Couture Preview",
     "date": "2026-11-11",
-    "image": "https://picsum.photos/seed/ev2/1600/900",
+    "image": "img/events/e-3.svg",
     "desc": "Haute Couture Preview digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Haute Couture Preview is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "title": "Watch & Jewellery Fair",
     "date": "2026-11-14",
-    "image": "https://picsum.photos/seed/ev3/1600/900",
+    "image": "img/events/e-4.svg",
     "desc": "Watch & Jewellery Fair digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Watch & Jewellery Fair is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "title": "Chef's Table Series",
     "date": "2026-11-17",
-    "image": "https://picsum.photos/seed/ev4/1600/900",
+    "image": "img/events/e-5.svg",
     "desc": "Chef's Table Series digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Chef's Table Series is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "title": "Lunar New Year Gala",
     "date": "2026-11-20",
-    "image": "https://picsum.photos/seed/ev5/1600/900",
+    "image": "img/events/e-6.svg",
     "desc": "Lunar New Year Gala digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Lunar New Year Gala is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "title": "Kids Atelier Workshop",
     "date": "2026-11-23",
-    "image": "https://picsum.photos/seed/ev6/1600/900",
+    "image": "img/events/e-7.svg",
     "desc": "Kids Atelier Workshop digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Kids Atelier Workshop is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "title": "Piano Under the Atrium",
     "date": "2026-11-26",
-    "image": "https://picsum.photos/seed/ev7/1600/900",
+    "image": "img/events/e-8.svg",
     "desc": "Piano Under the Atrium digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Piano Under the Atrium is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "title": "Spring Fashion Showcase",
     "date": "2027-01-17",
-    "image": "https://picsum.photos/seed/ev8/1600/900",
+    "image": "img/events/e-9.svg",
     "desc": "Spring Fashion Showcase digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Spring Fashion Showcase is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "title": "Wine & Cheese Evening",
     "date": "2027-02-19",
-    "image": "https://picsum.photos/seed/ev9/1600/900",
+    "image": "img/events/e-10.svg",
     "desc": "Wine & Cheese Evening digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Wine & Cheese Evening is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "title": "Designer Meet & Greet",
     "date": "2027-03-21",
-    "image": "https://picsum.photos/seed/ev10/1600/900",
+    "image": "img/events/e-11.svg",
     "desc": "Designer Meet & Greet digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Designer Meet & Greet is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "title": "Beauty Masterclass",
     "date": "2027-04-23",
-    "image": "https://picsum.photos/seed/ev11/1600/900",
+    "image": "img/events/e-12.svg",
     "desc": "Beauty Masterclass digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Beauty Masterclass is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "title": "Charity Gala Auction",
     "date": "2027-05-25",
-    "image": "https://picsum.photos/seed/ev12/1600/900",
+    "image": "img/events/e-13.svg",
     "desc": "Charity Gala Auction digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Charity Gala Auction is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "title": "Jazz at Pacific",
     "date": "2027-06-27",
-    "image": "https://picsum.photos/seed/ev13/1600/900",
+    "image": "img/events/e-14.svg",
     "desc": "Jazz at Pacific digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Jazz at Pacific is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "title": "Mother's Day Floral Installation",
     "date": "2027-07-02",
-    "image": "https://picsum.photos/seed/ev14/1600/900",
+    "image": "img/events/e-15.svg",
     "desc": "Mother's Day Floral Installation digelar eksklusif di Pacific Place Jakarta. Nikmati pengalaman istimewa bersama brand pilihan.",
     "desc_en": "Mother's Day Floral Installation is held exclusively at Pacific Place Jakarta. Enjoy a special experience with selected brands."
   }

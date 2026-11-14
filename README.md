@@ -27,3 +27,6 @@ Pengecualian: beranda (`index.html`), `admin.html`, dan `404.html`.
 
 ## Warna brand
 Palet default Merah-Putih (merah bendera `#CE1126`, merah tua `#7F0D1B`, merah muda `#F4C7CC`). Warna diatur dari Panel Admin > Halaman Muka > Tema, atau ubah variabel `--brand`, `--deep`, `--blush` di `css/custom.css`. Di kode, class `gold` berarti warna utama (merah), `deep` permukaan gelap (footer dan banner), `blush` aksen terang di atas permukaan gelap.
+
+## Gambar dummy
+Semua gambar contoh kini disimpan di dalam repo (`img/tenants`, `img/events`, `img/offers`), bukan dari situs luar. Jadi situs tetap tampil di jaringan yang memblokir layanan gambar eksternal dan saat dibuka tanpa internet. Jika sebuah gambar gagal dimuat, `img/placeholder.svg` ditampilkan otomatis. Ganti dengan foto asli lewat Panel Admin (tombol unggah di kolom image).

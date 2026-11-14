@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "parent": 4,
+    "group": "Privilege",
+    "group_en": "Privilege",
+    "label": "Pacific Privilege",
+    "label_en": "Pacific Privilege",
+    "url": "privilege.html"
+  },
+  {
+    "id": 2,
+    "parent": 4,
+    "group": "Privilege",
+    "group_en": "Privilege",
+    "label": "Penawaran Terbatas",
+    "label_en": "Limited Time Offer",
+    "url": "offers.html"
+  }
+]

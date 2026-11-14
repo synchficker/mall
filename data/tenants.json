@@ -5,7 +5,7 @@
     "type": "shop",
     "category": "Fashion",
     "floor": "2",
-    "image": "https://picsum.photos/seed/pp1/600/420",
+    "image": "img/tenants/t-1.svg",
     "desc": "Louis Vuitton menghadirkan pengalaman belanja fashion dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Louis Vuitton offers a personalised shopping experience (Fashion) in the heart of Jakarta."
@@ -16,7 +16,7 @@
     "type": "shop",
     "category": "Fashion",
     "floor": "1",
-    "image": "https://picsum.photos/seed/pp2/600/420",
+    "image": "img/tenants/t-2.svg",
     "desc": "Gucci menghadirkan pengalaman belanja fashion dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Gucci offers a personalised shopping experience (Fashion) in the heart of Jakarta."
@@ -27,7 +27,7 @@
     "type": "shop",
     "category": "Fashion",
     "floor": "3",
-    "image": "https://picsum.photos/seed/pp3/600/420",
+    "image": "img/tenants/t-3.svg",
     "desc": "Dior menghadirkan pengalaman belanja fashion dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Dior offers a personalised shopping experience (Fashion) in the heart of Jakarta."
@@ -38,7 +38,7 @@
     "type": "shop",
     "category": "Fashion",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp4/600/420",
+    "image": "img/tenants/t-4.svg",
     "desc": "Prada menghadirkan pengalaman belanja fashion dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Prada offers a personalised shopping experience (Fashion) in the heart of Jakarta."
@@ -49,7 +49,7 @@
     "type": "shop",
     "category": "Fashion",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp5/600/420",
+    "image": "img/tenants/t-5.svg",
     "desc": "Burberry menghadirkan pengalaman belanja fashion dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Burberry offers a personalised shopping experience (Fashion) in the heart of Jakarta."
@@ -60,7 +60,7 @@
     "type": "shop",
     "category": "Fashion",
     "floor": "4",
-    "image": "https://picsum.photos/seed/pp6/600/420",
+    "image": "img/tenants/t-6.svg",
     "desc": "Saint Laurent menghadirkan pengalaman belanja fashion dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Saint Laurent offers a personalised shopping experience (Fashion) in the heart of Jakarta."
@@ -71,7 +71,7 @@
     "type": "shop",
     "category": "Fashion",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp7/600/420",
+    "image": "img/tenants/t-7.svg",
     "desc": "Tom Ford menghadirkan pengalaman belanja fashion dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Tom Ford offers a personalised shopping experience (Fashion) in the heart of Jakarta."
@@ -82,7 +82,7 @@
     "type": "shop",
     "category": "Fashion",
     "floor": "2",
-    "image": "https://picsum.photos/seed/pp8/600/420",
+    "image": "img/tenants/t-8.svg",
     "desc": "Balenciaga menghadirkan pengalaman belanja fashion dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Balenciaga offers a personalised shopping experience (Fashion) in the heart of Jakarta."
@@ -93,7 +93,7 @@
     "type": "shop",
     "category": "Jewelry & Watches",
     "floor": "4",
-    "image": "https://picsum.photos/seed/pp9/600/420",
+    "image": "img/tenants/t-9.svg",
     "desc": "Cartier menghadirkan pengalaman belanja jewelry & watches dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Cartier offers a personalised shopping experience (Jewelry & Watches) in the heart of Jakarta."
@@ -104,7 +104,7 @@
     "type": "shop",
     "category": "Jewelry & Watches",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp10/600/420",
+    "image": "img/tenants/t-10.svg",
     "desc": "Tiffany & Co. menghadirkan pengalaman belanja jewelry & watches dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Tiffany & Co. offers a personalised shopping experience (Jewelry & Watches) in the heart of Jakarta."
@@ -115,7 +115,7 @@
     "type": "shop",
     "category": "Jewelry & Watches",
     "floor": "4",
-    "image": "https://picsum.photos/seed/pp11/600/420",
+    "image": "img/tenants/t-11.svg",
     "desc": "Bvlgari menghadirkan pengalaman belanja jewelry & watches dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Bvlgari offers a personalised shopping experience (Jewelry & Watches) in the heart of Jakarta."
@@ -126,7 +126,7 @@
     "type": "shop",
     "category": "Jewelry & Watches",
     "floor": "1",
-    "image": "https://picsum.photos/seed/pp12/600/420",
+    "image": "img/tenants/t-12.svg",
     "desc": "Rolex menghadirkan pengalaman belanja jewelry & watches dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Rolex offers a personalised shopping experience (Jewelry & Watches) in the heart of Jakarta."
@@ -137,7 +137,7 @@
     "type": "shop",
     "category": "Jewelry & Watches",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp13/600/420",
+    "image": "img/tenants/t-13.svg",
     "desc": "Montblanc menghadirkan pengalaman belanja jewelry & watches dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Montblanc offers a personalised shopping experience (Jewelry & Watches) in the heart of Jakarta."
@@ -148,7 +148,7 @@
     "type": "shop",
     "category": "Jewelry & Watches",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp14/600/420",
+    "image": "img/tenants/t-14.svg",
     "desc": "Piaget menghadirkan pengalaman belanja jewelry & watches dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Piaget offers a personalised shopping experience (Jewelry & Watches) in the heart of Jakarta."
@@ -159,7 +159,7 @@
     "type": "shop",
     "category": "Beauty",
     "floor": "3",
-    "image": "https://picsum.photos/seed/pp15/600/420",
+    "image": "img/tenants/t-15.svg",
     "desc": "Jo Malone London menghadirkan pengalaman belanja beauty dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Jo Malone London offers a personalised shopping experience (Beauty) in the heart of Jakarta."
@@ -170,7 +170,7 @@
     "type": "shop",
     "category": "Beauty",
     "floor": "3",
-    "image": "https://picsum.photos/seed/pp16/600/420",
+    "image": "img/tenants/t-16.svg",
     "desc": "Chanel Beauty menghadirkan pengalaman belanja beauty dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Chanel Beauty offers a personalised shopping experience (Beauty) in the heart of Jakarta."
@@ -181,7 +181,7 @@
     "type": "shop",
     "category": "Beauty",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp17/600/420",
+    "image": "img/tenants/t-17.svg",
     "desc": "La Mer Atelier menghadirkan pengalaman belanja beauty dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "La Mer Atelier offers a personalised shopping experience (Beauty) in the heart of Jakarta."
@@ -192,7 +192,7 @@
     "type": "shop",
     "category": "Beauty",
     "floor": "1",
-    "image": "https://picsum.photos/seed/pp18/600/420",
+    "image": "img/tenants/t-18.svg",
     "desc": "Aesop menghadirkan pengalaman belanja beauty dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Aesop offers a personalised shopping experience (Beauty) in the heart of Jakarta."
@@ -203,7 +203,7 @@
     "type": "shop",
     "category": "Beauty",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp19/600/420",
+    "image": "img/tenants/t-19.svg",
     "desc": "Diptyque menghadirkan pengalaman belanja beauty dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Diptyque offers a personalised shopping experience (Beauty) in the heart of Jakarta."
@@ -214,7 +214,7 @@
     "type": "shop",
     "category": "Fashion",
     "floor": "4",
-    "image": "https://picsum.photos/seed/pp20/600/420",
+    "image": "img/tenants/t-20.svg",
     "desc": "Bottega Veneta menghadirkan pengalaman belanja fashion dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Bottega Veneta offers a personalised shopping experience (Fashion) in the heart of Jakarta."
@@ -225,7 +225,7 @@
     "type": "shop",
     "category": "Fashion",
     "floor": "3",
-    "image": "https://picsum.photos/seed/pp21/600/420",
+    "image": "img/tenants/t-21.svg",
     "desc": "Ermenegildo Zegna menghadirkan pengalaman belanja fashion dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Ermenegildo Zegna offers a personalised shopping experience (Fashion) in the heart of Jakarta."
@@ -236,7 +236,7 @@
     "type": "shop",
     "category": "Fashion",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp22/600/420",
+    "image": "img/tenants/t-22.svg",
     "desc": "Maison Kitsune menghadirkan pengalaman belanja fashion dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Maison Kitsune offers a personalised shopping experience (Fashion) in the heart of Jakarta."
@@ -247,7 +247,7 @@
     "type": "shop",
     "category": "Home & Lifestyle",
     "floor": "4",
-    "image": "https://picsum.photos/seed/pp23/600/420",
+    "image": "img/tenants/t-23.svg",
     "desc": "Dyson Demo Store menghadirkan pengalaman belanja home & lifestyle dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Dyson Demo Store offers a personalised shopping experience (Home & Lifestyle) in the heart of Jakarta."
@@ -258,7 +258,7 @@
     "type": "shop",
     "category": "Home & Lifestyle",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp24/600/420",
+    "image": "img/tenants/t-24.svg",
     "desc": "Bang & Olufsen menghadirkan pengalaman belanja home & lifestyle dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Bang & Olufsen offers a personalised shopping experience (Home & Lifestyle) in the heart of Jakarta."
@@ -269,7 +269,7 @@
     "type": "shop",
     "category": "Home & Lifestyle",
     "floor": "1",
-    "image": "https://picsum.photos/seed/pp25/600/420",
+    "image": "img/tenants/t-25.svg",
     "desc": "Hermes Home menghadirkan pengalaman belanja home & lifestyle dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Hermes Home offers a personalised shopping experience (Home & Lifestyle) in the heart of Jakarta."
@@ -280,7 +280,7 @@
     "type": "shop",
     "category": "Kids",
     "floor": "4",
-    "image": "https://picsum.photos/seed/pp26/600/420",
+    "image": "img/tenants/t-26.svg",
     "desc": "Bonpoint Kids menghadirkan pengalaman belanja kids dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Bonpoint Kids offers a personalised shopping experience (Kids) in the heart of Jakarta."
@@ -291,7 +291,7 @@
     "type": "dine",
     "category": "Japanese",
     "floor": "LG",
-    "image": "https://picsum.photos/seed/pp27/600/420",
+    "image": "img/tenants/t-27.svg",
     "desc": "Sushi Hana menghadirkan pengalaman bersantap japanese dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Sushi Hana offers a personalised dining experience (Japanese) in the heart of Jakarta."
@@ -302,7 +302,7 @@
     "type": "dine",
     "category": "French",
     "floor": "5",
-    "image": "https://picsum.photos/seed/pp28/600/420",
+    "image": "img/tenants/t-28.svg",
     "desc": "La Brasserie menghadirkan pengalaman bersantap french dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "La Brasserie offers a personalised dining experience (French) in the heart of Jakarta."
@@ -313,7 +313,7 @@
     "type": "dine",
     "category": "Cafe",
     "floor": "LG",
-    "image": "https://picsum.photos/seed/pp29/600/420",
+    "image": "img/tenants/t-29.svg",
     "desc": "Pierre Cafe menghadirkan pengalaman bersantap cafe dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Pierre Cafe offers a personalised dining experience (Cafe) in the heart of Jakarta."
@@ -324,7 +324,7 @@
     "type": "dine",
     "category": "Indonesian",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp30/600/420",
+    "image": "img/tenants/t-30.svg",
     "desc": "Warung Nusantara menghadirkan pengalaman bersantap indonesian dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Warung Nusantara offers a personalised dining experience (Indonesian) in the heart of Jakarta."
@@ -335,7 +335,7 @@
     "type": "dine",
     "category": "Cafe",
     "floor": "LG",
-    "image": "https://picsum.photos/seed/pp31/600/420",
+    "image": "img/tenants/t-31.svg",
     "desc": "Tea Ritual menghadirkan pengalaman bersantap cafe dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Tea Ritual offers a personalised dining experience (Cafe) in the heart of Jakarta."
@@ -346,7 +346,7 @@
     "type": "dine",
     "category": "Western",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp32/600/420",
+    "image": "img/tenants/t-32.svg",
     "desc": "Soho Kitchen menghadirkan pengalaman bersantap western dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Soho Kitchen offers a personalised dining experience (Western) in the heart of Jakarta."
@@ -357,7 +357,7 @@
     "type": "dine",
     "category": "Japanese",
     "floor": "4",
-    "image": "https://picsum.photos/seed/pp33/600/420",
+    "image": "img/tenants/t-33.svg",
     "desc": "Ginza Teppan menghadirkan pengalaman bersantap japanese dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Ginza Teppan offers a personalised dining experience (Japanese) in the heart of Jakarta."
@@ -368,7 +368,7 @@
     "type": "dine",
     "category": "Western",
     "floor": "5",
-    "image": "https://picsum.photos/seed/pp34/600/420",
+    "image": "img/tenants/t-34.svg",
     "desc": "Bistro Senayan menghadirkan pengalaman bersantap western dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Bistro Senayan offers a personalised dining experience (Western) in the heart of Jakarta."
@@ -379,7 +379,7 @@
     "type": "dine",
     "category": "Italian",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp35/600/420",
+    "image": "img/tenants/t-35.svg",
     "desc": "Casa Roma menghadirkan pengalaman bersantap italian dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Casa Roma offers a personalised dining experience (Italian) in the heart of Jakarta."
@@ -390,7 +390,7 @@
     "type": "dine",
     "category": "Dessert",
     "floor": "LG",
-    "image": "https://picsum.photos/seed/pp36/600/420",
+    "image": "img/tenants/t-36.svg",
     "desc": "Maison Patisserie menghadirkan pengalaman bersantap dessert dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Maison Patisserie offers a personalised dining experience (Dessert) in the heart of Jakarta."
@@ -401,7 +401,7 @@
     "type": "dine",
     "category": "Chinese",
     "floor": "4",
-    "image": "https://picsum.photos/seed/pp37/600/420",
+    "image": "img/tenants/t-37.svg",
     "desc": "Dim Sum Garden menghadirkan pengalaman bersantap chinese dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Dim Sum Garden offers a personalised dining experience (Chinese) in the heart of Jakarta."
@@ -412,7 +412,7 @@
     "type": "dine",
     "category": "Asian",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp38/600/420",
+    "image": "img/tenants/t-38.svg",
     "desc": "Hanoi Table menghadirkan pengalaman bersantap asian dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Hanoi Table offers a personalised dining experience (Asian) in the heart of Jakarta."
@@ -423,7 +423,7 @@
     "type": "dine",
     "category": "Korean",
     "floor": "LG",
-    "image": "https://picsum.photos/seed/pp39/600/420",
+    "image": "img/tenants/t-39.svg",
     "desc": "Seoul Grill menghadirkan pengalaman bersantap korean dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Seoul Grill offers a personalised dining experience (Korean) in the heart of Jakarta."
@@ -434,7 +434,7 @@
     "type": "dine",
     "category": "Bar & Lounge",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp40/600/420",
+    "image": "img/tenants/t-40.svg",
     "desc": "The Cellar Bar menghadirkan pengalaman bersantap bar & lounge dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "The Cellar Bar offers a personalised dining experience (Bar & Lounge) in the heart of Jakarta."
@@ -445,7 +445,7 @@
     "type": "dine",
     "category": "Cafe",
     "floor": "4",
-    "image": "https://picsum.photos/seed/pp41/600/420",
+    "image": "img/tenants/t-41.svg",
     "desc": "Kopi Heritage menghadirkan pengalaman bersantap cafe dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Kopi Heritage offers a personalised dining experience (Cafe) in the heart of Jakarta."
@@ -456,7 +456,7 @@
     "type": "dine",
     "category": "Japanese",
     "floor": "LG",
-    "image": "https://picsum.photos/seed/pp42/600/420",
+    "image": "img/tenants/t-42.svg",
     "desc": "Yakiniku Kai menghadirkan pengalaman bersantap japanese dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Yakiniku Kai offers a personalised dining experience (Japanese) in the heart of Jakarta."
@@ -467,7 +467,7 @@
     "type": "dine",
     "category": "Italian",
     "floor": "LG",
-    "image": "https://picsum.photos/seed/pp43/600/420",
+    "image": "img/tenants/t-43.svg",
     "desc": "Trattoria Bella menghadirkan pengalaman bersantap italian dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Trattoria Bella offers a personalised dining experience (Italian) in the heart of Jakarta."
@@ -478,7 +478,7 @@
     "type": "dine",
     "category": "French",
     "floor": "LG",
-    "image": "https://picsum.photos/seed/pp44/600/420",
+    "image": "img/tenants/t-44.svg",
     "desc": "Le Gourmet menghadirkan pengalaman bersantap french dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Le Gourmet offers a personalised dining experience (French) in the heart of Jakarta."
@@ -489,7 +489,7 @@
     "type": "dine",
     "category": "Asian",
     "floor": "G",
-    "image": "https://picsum.photos/seed/pp45/600/420",
+    "image": "img/tenants/t-45.svg",
     "desc": "Noodle Atelier menghadirkan pengalaman bersantap asian dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Noodle Atelier offers a personalised dining experience (Asian) in the heart of Jakarta."
@@ -500,7 +500,7 @@
     "type": "dine",
     "category": "Dessert",
     "floor": "5",
-    "image": "https://picsum.photos/seed/pp46/600/420",
+    "image": "img/tenants/t-46.svg",
     "desc": "Chocolate Library menghadirkan pengalaman bersantap dessert dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Chocolate Library offers a personalised dining experience (Dessert) in the heart of Jakarta."
@@ -511,7 +511,7 @@
     "type": "dine",
     "category": "Seafood",
     "floor": "5",
-    "image": "https://picsum.photos/seed/pp47/600/420",
+    "image": "img/tenants/t-47.svg",
     "desc": "Ocean Pearl menghadirkan pengalaman bersantap seafood dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Ocean Pearl offers a personalised dining experience (Seafood) in the heart of Jakarta."
@@ -522,7 +522,7 @@
     "type": "dine",
     "category": "Indian",
     "floor": "4",
-    "image": "https://picsum.photos/seed/pp48/600/420",
+    "image": "img/tenants/t-48.svg",
     "desc": "Spice Route menghadirkan pengalaman bersantap indian dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Spice Route offers a personalised dining experience (Indian) in the heart of Jakarta."
@@ -533,7 +533,7 @@
     "type": "dine",
     "category": "Indian",
     "floor": "5",
-    "image": "https://picsum.photos/seed/pp49/600/420",
+    "image": "img/tenants/t-49.svg",
     "desc": "Saffron menghadirkan pengalaman bersantap indian dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Saffron offers a personalised dining experience (Indian) in the heart of Jakarta."
@@ -544,7 +544,7 @@
     "type": "dine",
     "category": "Bar & Lounge",
     "floor": "5",
-    "image": "https://picsum.photos/seed/pp50/600/420",
+    "image": "img/tenants/t-50.svg",
     "desc": "Skyline Lounge menghadirkan pengalaman bersantap bar & lounge dengan pelayanan personal di jantung Jakarta.",
     "hours": "10.00 - 22.00",
     "desc_en": "Skyline Lounge offers a personalised dining experience (Bar & Lounge) in the heart of Jakarta."
