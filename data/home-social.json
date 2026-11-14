@@ -12,22 +12,10 @@
     "icon": "x-twitter"
   },
   {
-    "id": 3,
-    "label": "YouTube",
-    "url": "https://youtube.com/c/PacificPlaceMallJakarta",
-    "icon": "youtube"
-  },
-  {
     "id": 4,
     "label": "Instagram",
     "url": "https://www.instagram.com/pacificplacejakarta/",
     "icon": "instagram"
-  },
-  {
-    "id": 5,
-    "label": "TikTok",
-    "url": "https://www.tiktok.com/",
-    "icon": "tiktok"
   },
   {
     "id": 6,
