@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "label": "Group",
+    "label_en": "Group",
+    "url": "#"
+  },
+  {
+    "id": 2,
+    "label": "Hotel",
+    "label_en": "Hotel",
+    "url": "#"
+  },
+  {
+    "id": 3,
+    "label": "Apartemen & Residence",
+    "label_en": "Apartment & Residence",
+    "url": "#"
+  }
+]

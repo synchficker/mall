@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "doc": "terms",
+    "heading": "Penerimaan Syarat",
+    "text": "Dengan mengakses atau menggunakan situs ini, Anda menyetujui Syarat Penggunaan ini. Jika Anda tidak setuju, mohon hentikan penggunaan situs.",
+    "heading_en": "Acceptance of Terms",
+    "text_en": "By accessing or using this website, you agree to these Terms of Use. If you do not agree, please stop using the website."
+  },
+  {
+    "id": 2,
+    "doc": "terms",
+    "heading": "Penggunaan Situs",
+    "text": "Situs ini disediakan untuk informasi pengunjung mengenai tenant, acara, penawaran, dan layanan. Anda dilarang menggunakan situs untuk tujuan melanggar hukum, mengganggu sistem, atau mengambil data secara otomatis tanpa izin.",
+    "heading_en": "Use of the Website",
+    "text_en": "This website is provided to inform visitors about tenants, events, offers and services. You may not use it for unlawful purposes, interfere with its systems, or collect data automatically without permission."
+  },
+  {
+    "id": 3,
+    "doc": "terms",
+    "heading": "Konten dan Hak Kekayaan Intelektual",
+    "text": "Seluruh teks, gambar, logo, dan desain di situs ini dilindungi hak cipta atau hak lain milik pengelola atau pemegang lisensinya. Konten tidak boleh disalin atau didistribusikan ulang tanpa persetujuan tertulis.",
+    "heading_en": "Content and Intellectual Property",
+    "text_en": "All text, images, logos and designs on this website are protected by copyright or other rights belonging to the operator or its licensors. Content may not be copied or redistributed without written consent."
+  },
+  {
+    "id": 4,
+    "doc": "terms",
+    "heading": "Informasi Tenant, Acara, dan Penawaran",
+    "text": "Kami berupaya menjaga keakuratan informasi, namun jam operasional, ketersediaan, harga, dan syarat penawaran dapat berubah sewaktu-waktu. Mohon konfirmasi langsung kepada tenant terkait.",
+    "heading_en": "Tenant, Event and Offer Information",
+    "text_en": "We aim to keep information accurate, but opening hours, availability, prices and offer terms may change at any time. Please confirm directly with the tenant concerned."
+  },
+  {
+    "id": 5,
+    "doc": "terms",
+    "heading": "Tautan Pihak Ketiga",
+    "text": "Situs ini dapat memuat tautan ke situs pihak ketiga. Kami tidak bertanggung jawab atas isi, kebijakan privasi, atau praktik situs tersebut.",
+    "heading_en": "Third-Party Links",
+    "text_en": "This website may contain links to third-party websites. We are not responsible for their content, privacy policies or practices."
+  },
+  {
+    "id": 6,
+    "doc": "terms",
+    "heading": "Batasan Tanggung Jawab",
+    "text": "Sejauh diizinkan hukum, kami tidak bertanggung jawab atas kerugian langsung maupun tidak langsung yang timbul dari penggunaan situs atau ketidakmampuan mengaksesnya.",
+    "heading_en": "Limitation of Liability",
+    "text_en": "To the extent permitted by law, we are not liable for any direct or indirect loss arising from use of the website or inability to access it."
+  },
+  {
+    "id": 7,
+    "doc": "terms",
+    "heading": "Perubahan Syarat",
+    "text": "Kami dapat memperbarui Syarat Penggunaan ini dari waktu ke waktu. Versi terbaru selalu tersedia di halaman ini, dan penggunaan situs setelah perubahan berarti Anda menerimanya.",
+    "heading_en": "Changes to These Terms",
+    "text_en": "We may update these Terms of Use from time to time. The latest version is always available on this page, and continued use after changes means you accept them."
+  },
+  {
+    "id": 8,
+    "doc": "terms",
+    "heading": "Hukum yang Berlaku dan Kontak",
+    "text": "Syarat ini tunduk pada hukum Republik Indonesia. Pertanyaan dapat disampaikan melalui halaman Kontak.",
+    "heading_en": "Governing Law and Contact",
+    "text_en": "These terms are governed by the laws of the Republic of Indonesia. Questions may be sent through the Contact page."
+  },
+  {
+    "id": 9,
+    "doc": "privacy",
+    "heading": "Informasi yang Kami Kumpulkan",
+    "text": "Kami dapat mengumpulkan informasi yang Anda berikan melalui formulir, seperti nama, email, nomor telepon, dan isi pesan. Kami juga dapat mencatat data teknis dasar, misalnya jenis peramban.",
+    "heading_en": "Information We Collect",
+    "text_en": "We may collect information you provide through forms, such as your name, email, phone number and message. We may also record basic technical data, such as browser type."
+  },
+  {
+    "id": 10,
+    "doc": "privacy",
+    "heading": "Cara Kami Menggunakan Informasi",
+    "text": "Informasi digunakan untuk menanggapi pertanyaan, memproses pengajuan sewa atau lamaran kerja, meningkatkan layanan, dan menyampaikan informasi yang relevan jika Anda menyetujuinya.",
+    "heading_en": "How We Use Information",
+    "text_en": "Information is used to respond to enquiries, process leasing or job applications, improve our services and share relevant updates where you have agreed."
+  },
+  {
+    "id": 11,
+    "doc": "privacy",
+    "heading": "Cookie dan Penyimpanan Lokal",
+    "text": "Situs ini menyimpan preferensi seperti pilihan bahasa dan tema warna di penyimpanan lokal peramban Anda. Data ini tidak dikirim ke server kami dan dapat dihapus kapan saja melalui pengaturan peramban.",
+    "heading_en": "Cookies and Local Storage",
+    "text_en": "This website stores preferences such as language choice and colour theme in your browser's local storage. This data is not sent to our servers and can be deleted at any time through your browser settings."
+  },
+  {
+    "id": 12,
+    "doc": "privacy",
+    "heading": "Formulir dan Komunikasi",
+    "text": "Pesan dari formulir dikirim melalui layanan pengiriman formulir pihak ketiga atau aplikasi email Anda. Mohon tidak mengirim data sensitif melalui formulir.",
+    "heading_en": "Forms and Communications",
+    "text_en": "Messages from forms are sent through a third-party form service or your email application. Please do not send sensitive data through forms."
+  },
+  {
+    "id": 13,
+    "doc": "privacy",
+    "heading": "Berbagi dengan Pihak Ketiga",
+    "text": "Kami tidak menjual data pribadi Anda. Informasi hanya dibagikan kepada penyedia layanan yang membantu operasional kami, atau bila diwajibkan oleh hukum.",
+    "heading_en": "Sharing with Third Parties",
+    "text_en": "We do not sell your personal data. Information is shared only with service providers who support our operations, or when required by law."
+  },
+  {
+    "id": 14,
+    "doc": "privacy",
+    "heading": "Keamanan Data",
+    "text": "Kami menerapkan langkah wajar untuk melindungi informasi Anda. Namun tidak ada metode transmisi atau penyimpanan yang sepenuhnya aman.",
+    "heading_en": "Data Security",
+    "text_en": "We take reasonable steps to protect your information. However, no method of transmission or storage is completely secure."
+  },
+  {
+    "id": 15,
+    "doc": "privacy",
+    "heading": "Hak Anda",
+    "text": "Anda dapat meminta akses, perbaikan, atau penghapusan data pribadi yang kami simpan dengan menghubungi kami melalui halaman Kontak.",
+    "heading_en": "Your Rights",
+    "text_en": "You may request access to, correction of, or deletion of the personal data we hold by contacting us through the Contact page."
+  },
+  {
+    "id": 16,
+    "doc": "privacy",
+    "heading": "Perubahan Kebijakan dan Kontak",
+    "text": "Kebijakan Privasi ini dapat diperbarui sewaktu-waktu. Perubahan akan ditampilkan di halaman ini. Untuk pertanyaan, hubungi customer service kami.",
+    "heading_en": "Policy Changes and Contact",
+    "text_en": "This Privacy Policy may be updated from time to time. Changes will be shown on this page. For questions, please contact our customer service."
+  }
+]

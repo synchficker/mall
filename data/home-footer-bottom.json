@@ -1,13 +1,14 @@
 [
   {
     "id": 1,
-    "label": "Home",
-    "url": "index.html"
+    "label": "Term of Use",
+    "label_en": "Term of Use",
+    "url": "terms.html?tab=terms"
   },
   {
     "id": 2,
-    "label": "Tentang",
-    "label_en": "About",
-    "url": "about.html"
+    "label": "Privacy Policy",
+    "label_en": "Privacy Policy",
+    "url": "terms.html?tab=privacy"
   }
 ]

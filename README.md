@@ -33,3 +33,6 @@ Semua gambar contoh kini disimpan di dalam repo (`img/tenants`, `img/events`, `i
 
 ## Berita (News)
 Halaman `news.html` menampilkan tiga kategori: Artikel Fitur, Media, dan CSR. Konten dikelola di Panel Admin > News (kolom `section`: feature, media, csr). Artikel dengan `featured` = ya tampil di kotak "Featured News" pada beranda; penawaran dengan `monthly` = ya tampil di kotak "Monthly Special"; tenant dengan `is_new` = ya masuk daftar "New Stores". Isi berita contoh adalah data dummy.
+
+## Term of Use & Privacy Policy
+Halaman `terms.html` berisi dua tab (Term of Use dan Privacy Policy) dengan isi dari Panel Admin > Legal (kolom `doc`: terms atau privacy). Teks bawaan hanyalah contoh dan perlu ditinjau oleh penasihat hukum sebelum situs dipublikasikan. Link Management di footer diatur di Halaman Muka > Management.

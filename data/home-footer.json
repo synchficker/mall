@@ -45,5 +45,7 @@
   "contact_address": "",
   "phone": "",
   "contact_note": "",
-  "bottom_note": ""
+  "bottom_note": "",
+  "mgmt_title": "Management",
+  "show_management": "ya"
 }
