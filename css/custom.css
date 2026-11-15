@@ -4,3 +4,4 @@
 @media(prefers-reduced-motion:reduce){.fade{animation:none}}
 :root{--brand:206 17 38;--deep:127 13 27;--blush:244 199 204}
 @keyframes pg{from{width:0}to{width:100%}}
+.no-sb{scrollbar-width:none}.no-sb::-webkit-scrollbar{display:none}

@@ -2,7 +2,7 @@
   "featured_title": "Featured Brands",
   "whatson_title": "What's On",
   "offers_title": "Offers",
-  "directory_title": "Directory",
+  "directory_title": "Temukan toko dan restoran kami",
   "privilege_title": "Privilege",
   "privilege_text": "Kumpulkan poin dan nikmati penawaran khusus member.",
   "privilege_button": "Gabung Sekarang",
@@ -14,5 +14,12 @@
   "whatson_count": "15",
   "offers_count": "4",
   "privilege_text_en": "Earn points and enjoy exclusive member offers.",
-  "privilege_button_en": "Join Now"
+  "privilege_button_en": "Join Now",
+  "directory_title_en": "Discover our shops and dining options",
+  "dir_eyebrow": "DIRECTORY",
+  "dir_select_label": "KATEGORI",
+  "dir_select_label_en": "CATEGORY",
+  "dir_button_label": "LIHAT SEMUA TOKO",
+  "dir_button_label_en": "VIEW ALL STORES",
+  "dir_button_url": "shop.html"
 }

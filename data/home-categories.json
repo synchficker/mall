@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "label": "Fashion",
+    "label_en": "Fashion",
+    "image": "img/categories/c-1.svg",
+    "url": "shop.html?c=Fashion"
+  },
+  {
+    "id": 2,
+    "label": "Perhiasan & Jam Tangan",
+    "label_en": "Jewelry & Watches",
+    "image": "img/categories/c-2.svg",
+    "url": "shop.html?c=Jewelry%20%26%20Watches"
+  },
+  {
+    "id": 3,
+    "label": "Kecantikan",
+    "label_en": "Beauty",
+    "image": "img/categories/c-3.svg",
+    "url": "shop.html?c=Beauty"
+  },
+  {
+    "id": 4,
+    "label": "Rumah & Gaya Hidup",
+    "label_en": "Home & Lifestyle",
+    "image": "img/categories/c-4.svg",
+    "url": "shop.html?c=Home%20%26%20Lifestyle"
+  },
+  {
+    "id": 5,
+    "label": "Anak",
+    "label_en": "Kids",
+    "image": "img/categories/c-5.svg",
+    "url": "shop.html?c=Kids"
+  },
+  {
+    "id": 6,
+    "label": "Restoran & Makanan",
+    "label_en": "Food & Dining",
+    "image": "img/categories/c-6.svg",
+    "url": "dine.html"
+  },
+  {
+    "id": 7,
+    "label": "Kafe",
+    "label_en": "Cafe",
+    "image": "img/categories/c-7.svg",
+    "url": "dine.html?c=Cafe"
+  },
+  {
+    "id": 8,
+    "label": "Dessert",
+    "label_en": "Dessert",
+    "image": "img/categories/c-8.svg",
+    "url": "dine.html?c=Dessert"
+  },
+  {
+    "id": 9,
+    "label": "Bar & Lounge",
+    "label_en": "Bar & Lounge",
+    "image": "img/categories/c-9.svg",
+    "url": "dine.html?c=Bar%20%26%20Lounge"
+  }
+]
