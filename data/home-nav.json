@@ -30,6 +30,13 @@
     "icon": "map-pinned"
   },
   {
+    "id": 7,
+    "label": "NEWS",
+    "url": "news.html",
+    "icon": "newspaper",
+    "mega": "auto"
+  },
+  {
     "id": 6,
     "label": "PLAN YOUR VISIT",
     "url": "visit.html",

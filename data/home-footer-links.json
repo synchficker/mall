@@ -15,5 +15,11 @@
     "label": "Karier",
     "label_en": "Careers",
     "url": "careers.html"
+  },
+  {
+    "id": 4,
+    "label": "Berita",
+    "label_en": "News",
+    "url": "news.html"
   }
 ]

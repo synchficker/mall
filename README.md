@@ -30,3 +30,6 @@ Palet default Merah-Putih (merah bendera `#CE1126`, merah tua `#7F0D1B`, merah m
 
 ## Gambar dummy
 Semua gambar contoh kini disimpan di dalam repo (`img/tenants`, `img/events`, `img/offers`), bukan dari situs luar. Jadi situs tetap tampil di jaringan yang memblokir layanan gambar eksternal dan saat dibuka tanpa internet. Jika sebuah gambar gagal dimuat, `img/placeholder.svg` ditampilkan otomatis. Ganti dengan foto asli lewat Panel Admin (tombol unggah di kolom image).
+
+## Berita (News)
+Halaman `news.html` menampilkan tiga kategori: Artikel Fitur, Media, dan CSR. Konten dikelola di Panel Admin > News (kolom `section`: feature, media, csr). Artikel dengan `featured` = ya tampil di kotak "Featured News" pada beranda; penawaran dengan `monthly` = ya tampil di kotak "Monthly Special"; tenant dengan `is_new` = ya masuk daftar "New Stores". Isi berita contoh adalah data dummy.

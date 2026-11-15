@@ -21,5 +21,18 @@
   "dir_select_label_en": "CATEGORY",
   "dir_button_label": "LIHAT SEMUA TOKO",
   "dir_button_label_en": "VIEW ALL STORES",
-  "dir_button_url": "shop.html"
+  "dir_button_url": "shop.html",
+  "bento_news_label": "Berita Pilihan",
+  "bento_news_label_en": "Featured News",
+  "bento_offer_label": "Spesial Bulan Ini",
+  "bento_offer_label_en": "Monthly Special",
+  "bento_stores_label": "Yang Baru",
+  "bento_stores_label_en": "What's New",
+  "bento_stores_title": "Toko Baru",
+  "bento_stores_title_en": "New Stores",
+  "bento_explore_label": "Telusuri",
+  "bento_explore_label_en": "Explore",
+  "bento_discover_label": "Lihat semua",
+  "bento_discover_label_en": "Discover",
+  "show_news": "ya"
 }

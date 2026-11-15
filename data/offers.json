@@ -7,7 +7,8 @@
     "image": "img/offers/o-1.svg",
     "desc": "Berlaku untuk member Privilege. S&K berlaku.",
     "desc_en": "Valid for Privilege members. Terms and conditions apply.",
-    "valid_en": "31 Dec 2026"
+    "valid_en": "31 Dec 2026",
+    "monthly": "ya"
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "image": "img/offers/o-2.svg",
     "desc": "Berlaku untuk member Privilege. S&K berlaku.",
     "desc_en": "Valid for Privilege members. Terms and conditions apply.",
-    "valid_en": "31 Dec 2026"
+    "valid_en": "31 Dec 2026",
+    "monthly": "tidak"
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "image": "img/offers/o-3.svg",
     "desc": "Berlaku untuk member Privilege. S&K berlaku.",
     "desc_en": "Valid for Privilege members. Terms and conditions apply.",
-    "valid_en": "31 Dec 2026"
+    "valid_en": "31 Dec 2026",
+    "monthly": "tidak"
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "image": "img/offers/o-4.svg",
     "desc": "Berlaku untuk member Privilege. S&K berlaku.",
     "desc_en": "Valid for Privilege members. Terms and conditions apply.",
-    "valid_en": "31 Dec 2026"
+    "valid_en": "31 Dec 2026",
+    "monthly": "tidak"
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "image": "img/offers/o-5.svg",
     "desc": "Berlaku untuk member Privilege. S&K berlaku.",
     "desc_en": "Valid for Privilege members. Terms and conditions apply.",
-    "valid_en": "31 Dec 2026"
+    "valid_en": "31 Dec 2026",
+    "monthly": "tidak"
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@
     "image": "img/offers/o-6.svg",
     "desc": "Berlaku untuk member Privilege. S&K berlaku.",
     "desc_en": "Valid for Privilege members. Terms and conditions apply.",
-    "valid_en": "31 Dec 2026"
+    "valid_en": "31 Dec 2026",
+    "monthly": "tidak"
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@
     "image": "img/offers/o-7.svg",
     "desc": "Berlaku untuk member Privilege. S&K berlaku.",
     "desc_en": "Valid for Privilege members. Terms and conditions apply.",
-    "valid_en": "31 Dec 2026"
+    "valid_en": "31 Dec 2026",
+    "monthly": "tidak"
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@
     "image": "img/offers/o-8.svg",
     "desc": "Berlaku untuk member Privilege. S&K berlaku.",
     "desc_en": "Valid for Privilege members. Terms and conditions apply.",
-    "valid_en": "31 Dec 2026"
+    "valid_en": "31 Dec 2026",
+    "monthly": "tidak"
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@
     "image": "img/offers/o-9.svg",
     "desc": "Berlaku untuk member Privilege. S&K berlaku.",
     "desc_en": "Valid for Privilege members. Terms and conditions apply.",
-    "valid_en": "31 Dec 2026"
+    "valid_en": "31 Dec 2026",
+    "monthly": "tidak"
   },
   {
     "id": 10,
@@ -97,6 +106,7 @@
     "image": "img/offers/o-10.svg",
     "desc": "Berlaku untuk member Privilege. S&K berlaku.",
     "desc_en": "Valid for Privilege members. Terms and conditions apply.",
-    "valid_en": "31 Dec 2026"
+    "valid_en": "31 Dec 2026",
+    "monthly": "tidak"
   }
 ]
